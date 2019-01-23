@@ -1,0 +1,7 @@
+# Ignore Gradle cache directory
+*.class
+.gradle
+.DS_Store
+
+# Ignore Gradle build output directory
+build
